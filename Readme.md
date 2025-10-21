@@ -21,6 +21,8 @@ I am seeking **long-term collaborators** to work together on exciting projects. 
 - Full-stack development opportunities
 - Innovative tech solutions
 
+![Looking for](./image.webp)
+
 ---
 
 ## 📞 Contact Me
