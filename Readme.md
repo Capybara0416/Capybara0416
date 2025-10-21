@@ -12,8 +12,6 @@ I am **Haruki Mizuno**, a **Mobile Full Stack** and **Trading System** Engineer 
 - Former 🌟**Top-Rated** Upwork freelancer with **98%** job success rate
 - **$100K+** in earnings through freelance work
 
-![Upwork Profile](./upwork-profile.png)
-
 ---
 
 ## 🎯 What I'm Looking For
@@ -39,3 +37,5 @@ Let's connect and discuss potential collaborations!
 ---
 
 *Looking forward to working with you!* 🚀
+
+![Upwork Profile](./upwork-profile.png)
